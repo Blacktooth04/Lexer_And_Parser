@@ -1,5 +1,6 @@
 # Lexer_And_Parser
 The first programming project involves writing a program that parses, using recursive descent, a GUI definition language defined in an input file and generates the GUI that it defines. The grammar for this language is defined below:
+
 gui ::=
   Window STRING '(' NUMBER ',' NUMBER ')' layout widgets End '.'
 layout ::=
