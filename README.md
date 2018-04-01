@@ -1,4 +1,7 @@
 # Lexer_And_Parser
+It's not perfect, but it's what I was able to accomplish. I'm pleased with the results, I made a 100 on the assignment. I learned a lot about compilers during these few weeks.
+
+ASSIGNMENT:
 The first programming project involves writing a program that parses, using recursive descent, a GUI definition language defined in an input file and generates the GUI that it defines. The grammar for this language is defined below:
 
 gui ::=
